@@ -44,7 +44,6 @@ jobs:
         quarto render  index.qmd --output-dir _html
 
     - name: Upload Artifact
-      uses: actions/upload-pages-artifact@v4   
       id: artifact-upload-step2
       uses: actions/upload-artifact@v4
       with:
