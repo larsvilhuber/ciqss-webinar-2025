@@ -1,4 +1,4 @@
-# Why reproducibility?
+# Why reproducibility? {background-image="images/lake-summer.jpg" background-size="contain" background-position="bottom"}
 
 ## What are the benefits of reproducibility and transparency?
 

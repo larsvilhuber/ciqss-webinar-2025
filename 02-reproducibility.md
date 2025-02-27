@@ -1,4 +1,4 @@
-# What?
+# What is... {background-image="images/lake-steaming.jpg" background-size="contain" background-position="bottom"}
 
 ## Reproducibility in Economics
 

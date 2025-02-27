@@ -1,4 +1,4 @@
-# How?
+# How? {background-image="images/lake-red.jpg" background-size="contain" background-position="bottom"}
 
 ## How to create reproducible research?
 

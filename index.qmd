@@ -52,6 +52,9 @@ WEBSITE_URL <- paste0("https://", GITHUB_REPOSITORY_PARTS[1], ".github.io/", GIT
 ```
 
 
+```{r, child=c(here::here('30-how.md'))}
+```
+
 
 
 
